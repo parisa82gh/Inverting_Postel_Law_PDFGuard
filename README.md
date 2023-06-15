@@ -1,4 +1,4 @@
-# Inverting Postel's Law PDFGuard
+# Inverting Postel's Law with PDF Guard
 ## Problem Statement
 The current implementation of the Robustness Principle (Postel’s Law) has long been a concern for security as well as a cause for software bloat. Currently, it is common practice for those in network administration to implement guards/firewalls to filter traffic that doesn’t meet certain rules in order to reduce the attack surface of the network. However, this type of guard is not typically available for specific file types.
 ## Purpose of the Project
